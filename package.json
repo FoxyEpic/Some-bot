@@ -1,0 +1,19 @@
+{
+  "name": "Some-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "express": "^4.17.2",
+    "node": "^17.3.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
